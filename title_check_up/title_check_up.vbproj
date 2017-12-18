@@ -244,7 +244,7 @@
     </ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>4AD1C2AB7288C4F6122F20C80462BAD17951F6D9</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>7BEF9F20CB6A8CF5D78635F840ED92D32CA6FBAF</ManifestCertificateThumbprint>
   </PropertyGroup>
   <!-- Include the build rules for a Visual Basic project. -->
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />

@@ -12,17 +12,3 @@ C:\Users\Administrator\Documents\Visual Studio 2017\Projects\title_check_up\titl
 C:\Users\Administrator\Documents\Visual Studio 2017\Projects\title_check_up\title_check_up\obj\Debug\title_check_up.pdb
 C:\Users\Administrator\Documents\Visual Studio 2017\Projects\title_check_up\title_check_up\bin\Debug\title_check_up.vsto
 C:\Users\Administrator\Documents\Visual Studio 2017\Projects\title_check_up\title_check_up\obj\Debug\title_check_up.vbprojResolveAssemblyReference.cache
-F:\elianda-eudp\title_check_up\title_check_up\bin\Debug\title_check_up.dll
-F:\elianda-eudp\title_check_up\title_check_up\bin\Debug\title_check_up.pdb
-F:\elianda-eudp\title_check_up\title_check_up\bin\Debug\title_check_up.xml
-F:\elianda-eudp\title_check_up\title_check_up\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
-F:\elianda-eudp\title_check_up\title_check_up\obj\Debug\title_check_up.vbprojResolveAssemblyReference.cache
-F:\elianda-eudp\title_check_up\title_check_up\obj\Debug\title_check_up.Ribbon1.resources
-F:\elianda-eudp\title_check_up\title_check_up\obj\Debug\title_check_up.Resources.resources
-F:\elianda-eudp\title_check_up\title_check_up\obj\Debug\title_check_up.vbproj.GenerateResource.Cache
-F:\elianda-eudp\title_check_up\title_check_up\obj\Debug\title_check_up.vbproj.CoreCompileInputs.cache
-F:\elianda-eudp\title_check_up\title_check_up\obj\Debug\title_check_up.dll
-F:\elianda-eudp\title_check_up\title_check_up\obj\Debug\title_check_up.xml
-F:\elianda-eudp\title_check_up\title_check_up\obj\Debug\title_check_up.pdb
-F:\elianda-eudp\title_check_up\title_check_up\bin\Debug\title_check_up.dll.manifest
-F:\elianda-eudp\title_check_up\title_check_up\bin\Debug\title_check_up.vsto
